@@ -14,7 +14,7 @@
 The **3D Solar System** is an interactive, fully responsive web application built with **React.js**, **Three.js**, and **JavaScript (ES6)**.  
 It visualizes planets, orbits, and animations in an immersive 3D environment.
 
-<a href="https://lakshan-a.github.io/3D_Solar_System/" target="_blank"><strong>➥ Live Demo</strong></a>
+<a href="https://github.com/lakshan-a/3d-Solar-System/blob/master/src/assets/images/solar.jpg" target="_blank"><strong>➥ Live Demo</strong></a>
 
 </div>
 
