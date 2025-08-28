@@ -49,10 +49,13 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/lakshan-a/3D_Solar_System.git
+```
+## Install dependencies:
 
-
-### Install dependencies:
-
+```bash
 npm install
 # or
 yarn install
+```
+
+
