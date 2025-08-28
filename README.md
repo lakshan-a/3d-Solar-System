@@ -54,15 +54,11 @@ git clone https://github.com/lakshan-a/3D_Solar_System.git
 
 ```bash
 npm install
-# or
-yarn install
 ```
 
 ## Start the development server:
 
 ```bash
 npm start
-# or
-yarn start
 ```
 
