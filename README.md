@@ -1,8 +1,8 @@
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/lakshan-a/3d-Solar-System)
-![GitHub stars](https://img.shields.io/github/stars/lakshan-a/3D_Solar_System?style=social)
-![GitHub forks](https://img.shields.io/github/forks/lakshan-a/3D_Solar_System?style=social)
+![GitHub stars](https://img.shields.io/github/stars/lakshan-a/3d-Solar-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/lakshan-a/3d-Solar-System?style=social)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin)](https://www.linkedin.com/in/lakshan-rashmika-4a7566249/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?logo=ko-fi)](https://lakshan-a.github.io/New-Portfolio/)
 
