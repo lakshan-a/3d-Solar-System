@@ -20,7 +20,7 @@ It visualizes planets, orbits, and animations in an immersive 3D environment.
 
 <br />
 
-![3D Solar System Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![3D Solar System Desktop Demo](src/assets/images/solar.jpg "Desktop Demo")
 
 ---
 
