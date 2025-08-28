@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'AvocadoDiet';
+    src: url('./assets/fonts/avocado-diet-demo.regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
